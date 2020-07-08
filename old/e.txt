@@ -1,0 +1,36 @@
+
+kind : youtube#searchResult
+etag : aQzZyqmR_oxAWiwqkb89_PEYVsg
+id : {'kind': 'youtube#video', 'videoId': 'NVXaCh7XPe8'}
+snippet : 
+{
+    'publishedAt': '2018-06-30T08:00:01Z', 
+    'channelId': 'UCNHqosTdwFPSK5OQsjFoS5g', 
+    'title': 'ゲームの世界にすいこまれた！？プログラミングであきらをたすけよう！', 
+    'description': '毎日のゲームのやりすぎでゲームの世界にすいこまれてしまったあきら。困ったかんなは学校に行ってプログラミングに詳しいコンソ先生と一緒...', 
+    'thumbnails': 
+    {
+        'default': 
+        {
+            'url': 'https://i.ytimg.com/vi/NVXaCh7XPe8/default.jpg', 
+            'width': 120, 
+            'height': 90
+        }
+        , 'medium': 
+        {
+            'url': 'https://i.ytimg.com/vi/NVXaCh7XPe8/mqdefault.jpg', 
+            'width': 320, 
+            'height': 180
+        }
+        , 'high': 
+        {
+            'url': 'https://i.ytimg.com/vi/NVXaCh7XPe8/hqdefault.jpg', 
+            'width': 480, 
+            'height': 360
+        }
+        }
+        , 'channelTitle': "Kan & Aki's CHANNELかんあきチャンネル", 
+        'liveBroadcastContent': 'none', 
+        'publishTime': 
+        '2018-06-30T08:00:01Z'
+        }

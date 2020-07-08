@@ -1,0 +1,85 @@
+{
+    'kind': 'youtube#videoListResponse', 
+    'etag': 'Hoq8jzJzYq8MSOTtNF-6lgnOl0I', 
+    'items': [
+        {
+            'kind': 'youtube#video', 
+            'etag': 'YseELDeIeDDpf5ZRfk79pf-FnhU', 
+            'id': 'BNv7zbORfVM', 
+            'snippet': 
+            {
+                'publishedAt': '2019-08-07T12:45:00Z', 
+                'channelId': 'UC1cHlPIE-kqiPvpyYz2O8rQ', 
+                'title': 'Snow Man 【ボードゲーム】ベストアクトで演技力対決してみた！', 
+                'description': "どうもSnow Manです！\n今回はボードゲームをやりまぁす。挑戦したゲームは、演技力が試される「ベストアクト」！\n与えられたお題に対して、声と表情だけで演じきってもらいます！\n一体どんな演技をしているのか、みなさんも一緒に考えながら楽しんでみてください！\n\nひかるくんはメンバーのことよく見てるね。\n翔太は独創的www。\n\n★ Snow Man 再生リスト【水曜更新】\n https://goo.gl/UXB2Ms \n\n★ チャンネル登録はこちら !\n https://goo.gl/u8cJ1h \n\n★twitter \nhttps://twitter.com/J_Jr_Ch \n\n★ Johnny's net\n http://www.johnnys-net.jp/", 
+                'thumbnails': 
+                {
+                    'default': 
+                    {
+                        'url': 'https://i.ytimg.com/vi/BNv7zbORfVM/default.jpg', 
+                        'width': 120, 
+                        'height': 90
+                    }, 
+                    'medium': 
+                    {
+                        'url': 'https://i.ytimg.com/vi/BNv7zbORfVM/mqdefault.jpg', 
+                        'width': 320, 
+                        'height': 180
+                    }, 
+                    'high': 
+                    {
+                        'url': 'https://i.ytimg.com/vi/BNv7zbORfVM/hqdefault.jpg', 
+                        'width': 480, 
+                        'height': 360
+                    }, 
+                    'standard': 
+                    {
+                        'url': 'https://i.ytimg.com/vi/BNv7zbORfVM/sddefault.jpg', 
+                        'width': 640, 
+                        'height': 480
+                    }, 
+                    'maxres': 
+                    {
+                        'url': 'https://i.ytimg.com/vi/BNv7zbORfVM/maxresdefault.jpg', 
+                        'width': 1280, 
+                        'height': 720
+                    }
+                }, 
+                'channelTitle': 'ジャニーズJr.チャンネル', 
+                'tags': ['岩本照', '深澤辰哉', 'ラウール', '渡辺翔太', '向井康二', '阿部亮平', '目黒蓮', '宮舘涼太', '佐久間大介', 'ジャニーズJr.チャンネル', 'Snow Man', 'snowman', 'スノーマン', 'ジャニーズ公式'], 
+                'categoryId': '24', 
+                'liveBroadcastContent': 'none', 
+                'defaultLanguage': 'ja', 
+                'localized': 
+                {
+                    'title': 'Snow Man 【ボードゲーム】ベストアクトで演技力対決してみた！', 
+                    'description': "どうもSnow Manです！\n今回はボードゲームをやりまぁす。挑戦したゲームは、演技力が試される「ベストアクト」！\n与えられたお題に対して、声と表情だけで演じきってもらいます！\n一体どんな演技をしているのか、みなさんも一緒に考えながら楽しんでみてください！\n\nひかるくんはメンバーのことよく見てるね。\n翔太は独創的www。\n\n★ Snow Man 再生リスト【水曜更新】\n https://goo.gl/UXB2Ms \n\n★ チャンネル登録はこちら !\n https://goo.gl/u8cJ1h \n\n★twitter \nhttps://twitter.com/J_Jr_Ch \n\n★ Johnny's net\n http://www.johnnys-net.jp/"
+                }, 'defaultAudioLanguage': 'ja'
+            }, 
+            'contentDetails': 
+            {
+                'duration': 'PT12M46S', 
+                'dimension': '2d', 
+                'definition': 'hd', 
+                'caption': 'true', 
+                'licensedContent': True, 
+                'contentRating': 
+                {
+
+                }, 
+                'projection': 'rectangular'
+            }, 
+            'statistics': 
+            {
+                'viewCount': '1665387', 
+                'favoriteCount': '0', 
+                'commentCount': '3398'
+            }
+        }
+    ], 
+    'pageInfo': 
+    {
+        'totalResults': 1, 
+        'resultsPerPage': 1
+    }
+}
